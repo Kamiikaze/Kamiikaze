@@ -63,6 +63,8 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -77,8 +79,20 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
  > 
 > 🔑 6 Private Repositories 
  > 
+**I Mostly Code in JavaScript** 
 
- Last Updated on 26/11/2023 05:28:47 UTC
+```text
+JavaScript               8 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Vue                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Liquid                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+```
+
+
+
+
+ Last Updated on 26/11/2023 12:05:27 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
