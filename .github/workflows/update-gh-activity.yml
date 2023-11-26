@@ -3,6 +3,7 @@ name: update-gh-activity
 on:
   schedule:
     - cron: '0 12 * * *'
+  workflow_dispatch:  # Allow manual triggering
 
 jobs:
   build:
