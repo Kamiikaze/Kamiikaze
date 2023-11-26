@@ -63,46 +63,22 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C502%20hrs%2019%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 325.5 kB Used in GitHub's Storage 
+> 📦 127.1 kB Used in GitHub's Storage 
  > 
-> 🏆 721 Contributions in the Year 2023
+> 🏆 137 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 16 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                276 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-🌆 Daytime                2126 commits        ████████░░░░░░░░░░░░░░░░░   33.22 % 
-🌃 Evening                2989 commits        ████████████░░░░░░░░░░░░░   46.70 % 
-🌙 Night                  1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 25/11/2023 12:31:38 UTC
+ Last Updated on 26/11/2023 05:15:35 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
