@@ -63,7 +63,7 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -79,6 +79,34 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+🌆 Daytime                99 commits          ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+🌃 Evening                112 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
+🌙 Night                  107 commits         ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               7 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+IntelliJ                 7 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+awesomebot               7 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  7 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -92,7 +120,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2023 12:05:27 UTC
+ Last Updated on 27/11/2023 12:06:39 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
