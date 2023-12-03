@@ -58,7 +58,7 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -90,12 +90,15 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               7 mins              █████████████████████████   99.22 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               17 mins             █████████████████████████   99.02 % 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-awesomebot               7 mins              █████████████████████████   100.00 % 
+sto-scraper              9 mins              ██████████████░░░░░░░░░░░   54.77 % 
+awesomebot               7 mins              ███████████░░░░░░░░░░░░░░   45.23 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +114,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2023 12:05:23 UTC
+ Last Updated on 03/12/2023 12:05:45 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
