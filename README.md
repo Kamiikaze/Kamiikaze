@@ -1,7 +1,7 @@
 [![update-gh-activity](https://github.com/Kamiikaze/Kamiikaze/actions/workflows/update-gh-activity.yml/badge.svg)](https://github.com/Kamiikaze/Kamiikaze/actions/workflows/update-gh-activity.yml)
 [![wakatime-stats](https://github.com/Kamiikaze/Kamiikaze/actions/workflows/update-timestats.yml/badge.svg)](https://github.com/Kamiikaze/Kamiikaze/actions/workflows/update-timestats.yml)
 [![Waka Readme](https://github.com/Kamiikaze/Kamiikaze/actions/workflows/waka-simple.yml/badge.svg)](https://github.com/Kamiikaze/Kamiikaze/actions/workflows/waka-simple.yml)
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fkamiikaze%2Fkamiikaze.json&label=Views)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FKamiikaze%2FKamiikaze.json&label=Views)
 
 <!--p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
