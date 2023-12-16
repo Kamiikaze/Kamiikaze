@@ -50,11 +50,11 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/danielptv/bookmark-bar-switcher/issues/213#issuecomment-1855676406) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
-2. 🗣 Commented on [#213](https://github.com/danielptv/bookmark-bar-switcher/issues/213#issuecomment-1854465947) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
-3. 🗣 Commented on [#213](https://github.com/danielptv/bookmark-bar-switcher/issues/213#issuecomment-1854070285) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
-4. 🗣 Commented on [#213](https://github.com/danielptv/bookmark-bar-switcher/issues/213#issuecomment-1854056687) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
-5. 🗣 Commented on [#213](https://github.com/danielptv/bookmark-bar-switcher/issues/213#issuecomment-1854045995) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+1. 🗣 Commented on [#215](https://github.com/danielptv/bookmark-bar-switcher/pull/215#issuecomment-1858526660) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+2. 🎉 Merged PR [#227](https://github.com/danielptv/bookmark-bar-switcher/pull/227) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+3. 🎉 Merged PR [#228](https://github.com/danielptv/bookmark-bar-switcher/pull/228) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+4. 🗣 Commented on [#213](https://github.com/danielptv/bookmark-bar-switcher/issues/213#issuecomment-1858438014) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+5. 🎉 Merged PR [#229](https://github.com/danielptv/bookmark-bar-switcher/pull/229) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
