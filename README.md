@@ -58,7 +58,7 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -77,10 +77,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                57 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-🌆 Daytime                103 commits         ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-🌃 Evening                128 commits         ████████░░░░░░░░░░░░░░░░░   32.41 % 
-🌙 Night                  107 commits         ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+🌞 Morning                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+🌆 Daytime                105 commits         ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+🌃 Evening                131 commits         ████████░░░░░░░░░░░░░░░░░   32.59 % 
+🌙 Night                  107 commits         ███████░░░░░░░░░░░░░░░░░░   26.62 % 
 ```
 
 
@@ -117,7 +117,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2023 12:06:23 UTC
+ Last Updated on 17/12/2023 12:05:55 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
