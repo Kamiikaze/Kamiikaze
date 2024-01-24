@@ -90,10 +90,15 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               35 mins             █████████░░░░░░░░░░░░░░░░   37.96 % 
+HTML                     35 mins             █████████░░░░░░░░░░░░░░░░   37.38 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+IDEA_MODULE              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sto-scraper              1 hr 34 mins        █████████████████████████   99.92 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +114,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2024 12:06:24 UTC
+ Last Updated on 24/01/2024 12:06:42 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
