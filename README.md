@@ -50,9 +50,9 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3351](https://github.com/huginn/huginn/issues/3351) in [huginn/huginn](https://github.com/huginn/huginn)
-2. 🗣 Commented on [#215](https://github.com/danielptv/bookmark-bar-switcher/pull/215#issuecomment-1858526660) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
-3. 🎉 Merged PR [#227](https://github.com/danielptv/bookmark-bar-switcher/pull/227) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+1. 🗣 Commented on [#3351](https://github.com/huginn/huginn/issues/3351#issuecomment-1948761628) in [huginn/huginn](https://github.com/huginn/huginn)
+2. 🔒 Closed issue [#3351](https://github.com/huginn/huginn/issues/3351) in [huginn/huginn](https://github.com/huginn/huginn)
+3. ❗ Opened issue [#3351](https://github.com/huginn/huginn/issues/3351) in [huginn/huginn](https://github.com/huginn/huginn)
 4. 🎉 Merged PR [#228](https://github.com/danielptv/bookmark-bar-switcher/pull/228) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
 5. 🗣 Commented on [#213](https://github.com/danielptv/bookmark-bar-switcher/issues/213#issuecomment-1858438014) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
 <!--END_SECTION:activity-->
