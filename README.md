@@ -58,7 +58,7 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -90,10 +90,17 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 48 mins       █████████████░░░░░░░░░░░░   50.69 % 
+JSON                     1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+JavaScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+TSConfig                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+advanced-streaming       5 hrs 23 mins       ████████████████████████░   97.31 % 
+bookmark-bar-switcher-dan3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+awesomebot               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +116,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2024 12:06:02 UTC
+ Last Updated on 22/02/2024 12:06:05 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
