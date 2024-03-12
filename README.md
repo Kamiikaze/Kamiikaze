@@ -50,11 +50,11 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Kamiikaze/Tampermonkey/issues/1#issuecomment-1981957846) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
-2. 🗣 Commented on [#3351](https://github.com/huginn/huginn/issues/3351#issuecomment-1948761628) in [huginn/huginn](https://github.com/huginn/huginn)
-3. 🔒 Closed issue [#3351](https://github.com/huginn/huginn/issues/3351) in [huginn/huginn](https://github.com/huginn/huginn)
-4. ❗ Opened issue [#3351](https://github.com/huginn/huginn/issues/3351) in [huginn/huginn](https://github.com/huginn/huginn)
-5. 🗣 Commented on [#213](https://github.com/danielptv/bookmark-bar-switcher/issues/213#issuecomment-1858438014) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+1. 🗣 Commented on [#12](https://github.com/skrysmanski/chrome-separators/issues/12#issuecomment-1989229062) in [skrysmanski/chrome-separators](https://github.com/skrysmanski/chrome-separators)
+2. 🗣 Commented on [#1](https://github.com/Kamiikaze/Tampermonkey/issues/1#issuecomment-1981957846) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
+3. 🗣 Commented on [#3351](https://github.com/huginn/huginn/issues/3351#issuecomment-1948761628) in [huginn/huginn](https://github.com/huginn/huginn)
+4. 🔒 Closed issue [#3351](https://github.com/huginn/huginn/issues/3351) in [huginn/huginn](https://github.com/huginn/huginn)
+5. ❗ Opened issue [#3351](https://github.com/huginn/huginn/issues/3351) in [huginn/huginn](https://github.com/huginn/huginn)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
