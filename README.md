@@ -58,7 +58,7 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -88,10 +88,14 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     17 mins             ███████████████████████░░   90.48 % 
+GitIgnore file           1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Dennis-Stream            16 mins             █████████████████████░░░░   83.69 % 
+Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+LightEditProject         1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +111,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/04/2024 12:06:49 UTC
+ Last Updated on 09/04/2024 12:07:09 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
