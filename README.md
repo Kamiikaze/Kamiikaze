@@ -66,8 +66,6 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 
 > 📦 127.2 kB Used in GitHub's Storage 
  > 
-> 🏆 37 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -90,15 +88,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               6 hrs 7 mins        █████████████████████████   98.70 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JavaScript               7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Tampermonkey             6 hrs 11 mins       █████████████████████████   99.68 % 
-awesomebot               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Tampermonkey             7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +107,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2024 12:06:51 UTC
+ Last Updated on 31/05/2024 12:27:30 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
