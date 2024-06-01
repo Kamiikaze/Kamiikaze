@@ -66,6 +66,8 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 
 > 📦 127.2 kB Used in GitHub's Storage 
  > 
+> 🏆 38 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -75,10 +77,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-🌆 Daytime                154 commits         ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-🌃 Evening                188 commits         █████████░░░░░░░░░░░░░░░░   35.01 % 
-🌙 Night                  114 commits         █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+🌞 Morning                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+🌆 Daytime                154 commits         ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+🌃 Evening                188 commits         █████████░░░░░░░░░░░░░░░░   34.94 % 
+🌙 Night                  115 commits         █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
 ```
 
 
@@ -88,10 +90,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Tampermonkey             7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +109,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2024 12:27:30 UTC
+ Last Updated on 01/06/2024 12:26:05 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
