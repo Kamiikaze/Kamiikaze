@@ -66,8 +66,6 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 
 > 📦 127.3 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -90,13 +88,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               1 hr 41 mins        ██████████████████░░░░░░░   73.97 % 
-JSON                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bookmark-bar-switcher-dan2 hrs 16 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +107,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2024 12:07:27 UTC
+ Last Updated on 18/06/2024 12:07:11 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
