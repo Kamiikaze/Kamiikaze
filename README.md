@@ -58,7 +58,7 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -77,10 +77,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-🌆 Daytime                154 commits         ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-🌃 Evening                206 commits         █████████░░░░░░░░░░░░░░░░   36.92 % 
-🌙 Night                  117 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+🌞 Morning                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+🌆 Daytime                154 commits         ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+🌃 Evening                208 commits         █████████░░░░░░░░░░░░░░░░   37.14 % 
+🌙 Night                  117 commits         █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
 ```
 
 
@@ -90,10 +90,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Tampermonkey             36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +109,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2024 12:07:54 UTC
+ Last Updated on 27/06/2024 12:07:40 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
