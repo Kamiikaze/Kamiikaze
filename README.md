@@ -50,11 +50,11 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/Kamiikaze/Tampermonkey/issues/2) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
-2. 🗣 Commented on [#1](https://github.com/Kamiikaze/Tampermonkey/issues/1#issuecomment-2164226941) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
-3. 🔒 Closed issue [#1](https://github.com/Kamiikaze/Tampermonkey/issues/1) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
-4. 🗣 Commented on [#218](https://github.com/danielptv/bookmark-bar-switcher/issues/218#issuecomment-2161138014) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
-5. 🗣 Commented on [#218](https://github.com/danielptv/bookmark-bar-switcher/issues/218#issuecomment-2158917588) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+1. ❗ Opened issue [#45](https://github.com/andy-portmen/open-in-vlc/issues/45) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
+2. ❗ Opened issue [#2](https://github.com/Kamiikaze/Tampermonkey/issues/2) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
+3. 🗣 Commented on [#1](https://github.com/Kamiikaze/Tampermonkey/issues/1#issuecomment-2164226941) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
+4. 🔒 Closed issue [#1](https://github.com/Kamiikaze/Tampermonkey/issues/1) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
+5. 🗣 Commented on [#218](https://github.com/danielptv/bookmark-bar-switcher/issues/218#issuecomment-2161138014) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
