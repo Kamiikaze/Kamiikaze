@@ -50,11 +50,11 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#48](https://github.com/andy-portmen/open-in-vlc/issues/48) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
-2. ❗ Opened issue [#45](https://github.com/andy-portmen/open-in-vlc/issues/45) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
-3. ❗ Opened issue [#2](https://github.com/Kamiikaze/Tampermonkey/issues/2) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
-4. 🗣 Commented on [#1](https://github.com/Kamiikaze/Tampermonkey/issues/1#issuecomment-2164226941) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
-5. 🔒 Closed issue [#1](https://github.com/Kamiikaze/Tampermonkey/issues/1) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
+1. 🗣 Commented on [#48](https://github.com/andy-portmen/open-in-vlc/issues/48#issuecomment-2246505251) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
+2. ❗ Opened issue [#48](https://github.com/andy-portmen/open-in-vlc/issues/48) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
+3. ❗ Opened issue [#45](https://github.com/andy-portmen/open-in-vlc/issues/45) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
+4. ❗ Opened issue [#2](https://github.com/Kamiikaze/Tampermonkey/issues/2) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
+5. 🗣 Commented on [#1](https://github.com/Kamiikaze/Tampermonkey/issues/1#issuecomment-2164226941) in [Kamiikaze/Tampermonkey](https://github.com/Kamiikaze/Tampermonkey)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
