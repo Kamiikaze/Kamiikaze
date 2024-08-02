@@ -90,10 +90,15 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   3 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.47 % 
+TypeScript               2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+JavaScript               55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bdo-settings-editor      8 hrs 21 mins       █████████████████████████   99.57 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,7 +114,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2024 12:07:38 UTC
+ Last Updated on 02/08/2024 12:07:27 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
