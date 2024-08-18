@@ -66,6 +66,8 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 
 > 📦 127.3 kB Used in GitHub's Storage 
  > 
+> 🏆 46 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -107,7 +109,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2024 12:06:28 UTC
+ Last Updated on 18/08/2024 12:08:21 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
