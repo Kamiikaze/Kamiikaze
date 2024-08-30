@@ -66,6 +66,8 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 
 > 📦 127.4 kB Used in GitHub's Storage 
  > 
+> 🏆 46 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -88,10 +90,14 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 19 mins        ███████████████████████░░   93.11 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bdo-boss-timer           1 hr 25 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +113,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2024 12:07:35 UTC
+ Last Updated on 30/08/2024 12:07:30 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
