@@ -58,7 +58,7 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -90,14 +90,14 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               1 hr 19 mins        ███████████████████████░░   93.11 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JavaScript               2 hrs 27 mins       ████████████████████████░   96.18 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-bdo-boss-timer           1 hr 25 mins        █████████████████████████   100.00 % 
+bdo-boss-timer           2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +113,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2024 12:07:30 UTC
+ Last Updated on 31/08/2024 12:07:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
