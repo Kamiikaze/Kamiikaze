@@ -119,7 +119,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 25 November 2023 - To: 31 August 2024
+From: 25 November 2023 - To: 01 September 2024
 
 Total Time: 77 hrs 5 mins
 
