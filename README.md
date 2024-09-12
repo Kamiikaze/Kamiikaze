@@ -66,7 +66,7 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 
 > 📦 127.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 46 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -90,12 +90,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-GitIgnore file           0 secs              ██████████████████████░░░   87.70 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bdo-boss-timer           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +109,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2024 12:07:52 UTC
+ Last Updated on 12/09/2024 12:07:58 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
