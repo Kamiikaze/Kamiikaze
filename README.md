@@ -58,7 +58,7 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -112,7 +112,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2024 12:08:02 UTC
+ Last Updated on 21/09/2024 12:07:16 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
