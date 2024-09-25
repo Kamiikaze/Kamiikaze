@@ -50,9 +50,9 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/samfundev/BetterDiscordStuff/issues/12#issuecomment-2365231118) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
-2. 🗣 Commented on [#3](https://github.com/wanjizheng/iBarter_WPF/issues/3#issuecomment-2290047461) in [wanjizheng/iBarter_WPF](https://github.com/wanjizheng/iBarter_WPF)
-3. 🗣 Commented on [#468](https://github.com/danielptv/bookmark-bar-switcher/issues/468#issuecomment-2272293899) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+1. ❗ Opened issue [#237](https://github.com/zerebos/BDPluginLibrary/issues/237) in [zerebos/BDPluginLibrary](https://github.com/zerebos/BDPluginLibrary)
+2. 🗣 Commented on [#12](https://github.com/samfundev/BetterDiscordStuff/issues/12#issuecomment-2365231118) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
+3. 🗣 Commented on [#3](https://github.com/wanjizheng/iBarter_WPF/issues/3#issuecomment-2290047461) in [wanjizheng/iBarter_WPF](https://github.com/wanjizheng/iBarter_WPF)
 4. ❗ Opened issue [#48](https://github.com/andy-portmen/open-in-vlc/issues/48) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
 5. ❗ Opened issue [#45](https://github.com/andy-portmen/open-in-vlc/issues/45) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
 <!--END_SECTION:activity-->
