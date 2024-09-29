@@ -90,12 +90,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-GitIgnore file           9 mins              ██████████░░░░░░░░░░░░░░░   38.32 % 
-JavaScript               9 mins              █████████░░░░░░░░░░░░░░░░   37.38 % 
-JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bdo-boss-timer           24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +109,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2024 12:07:38 UTC
+ Last Updated on 29/09/2024 12:07:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
