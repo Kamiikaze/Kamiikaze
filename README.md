@@ -50,10 +50,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#237](https://github.com/zerebos/BDPluginLibrary/issues/237#issuecomment-2385563225) in [zerebos/BDPluginLibrary](https://github.com/zerebos/BDPluginLibrary)
-2. ❗ Opened issue [#237](https://github.com/zerebos/BDPluginLibrary/issues/237) in [zerebos/BDPluginLibrary](https://github.com/zerebos/BDPluginLibrary)
-3. 🗣 Commented on [#12](https://github.com/samfundev/BetterDiscordStuff/issues/12#issuecomment-2365231118) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
-4. 🗣 Commented on [#3](https://github.com/wanjizheng/iBarter_WPF/issues/3#issuecomment-2290047461) in [wanjizheng/iBarter_WPF](https://github.com/wanjizheng/iBarter_WPF)
+1. 🗣 Commented on [#12](https://github.com/samfundev/BetterDiscordStuff/issues/12#issuecomment-2395289463) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
+2. 🗣 Commented on [#237](https://github.com/zerebos/BDPluginLibrary/issues/237#issuecomment-2385563225) in [zerebos/BDPluginLibrary](https://github.com/zerebos/BDPluginLibrary)
+3. ❗ Opened issue [#237](https://github.com/zerebos/BDPluginLibrary/issues/237) in [zerebos/BDPluginLibrary](https://github.com/zerebos/BDPluginLibrary)
+4. 🗣 Commented on [#12](https://github.com/samfundev/BetterDiscordStuff/issues/12#issuecomment-2365231118) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
 5. ❗ Opened issue [#45](https://github.com/andy-portmen/open-in-vlc/issues/45) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
 <!--END_SECTION:activity-->
 
