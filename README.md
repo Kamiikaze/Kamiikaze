@@ -66,6 +66,8 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 
 > 📦 127.3 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -88,15 +90,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Vue.js                   3 hrs 15 mins       ██████████████████████░░░   88.94 % 
-TypeScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-game-bot-view            3 hrs 39 mins       █████████████████████████   99.91 % 
-discord-reloaded         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +109,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2024 12:08:41 UTC
+ Last Updated on 30/11/2024 12:07:43 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
