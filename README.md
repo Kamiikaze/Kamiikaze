@@ -58,15 +58,15 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 127.4 kB Used in GitHub's Storage 
+> 📦 127.3 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2024
+> 🏆 54 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -115,7 +115,7 @@ Liquid                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2024 12:08:30 UTC
+ Last Updated on 24/12/2024 12:08:20 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
