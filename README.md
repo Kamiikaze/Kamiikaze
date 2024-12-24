@@ -50,8 +50,8 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/samfundev/BetterDiscordStuff/issues/19#issuecomment-2529572190) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
-2. 🗣 Commented on [#237](https://github.com/zerebos/BDPluginLibrary/issues/237#issuecomment-2385563225) in [zerebos/BDPluginLibrary](https://github.com/zerebos/BDPluginLibrary)
+1. ❗ Opened issue [#81](https://github.com/andy-portmen/open-in-vlc/issues/81) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
+2. 🗣 Commented on [#19](https://github.com/samfundev/BetterDiscordStuff/issues/19#issuecomment-2529572190) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
 3. ❗ Opened issue [#237](https://github.com/zerebos/BDPluginLibrary/issues/237) in [zerebos/BDPluginLibrary](https://github.com/zerebos/BDPluginLibrary)
 4. 🗣 Commented on [#12](https://github.com/samfundev/BetterDiscordStuff/issues/12#issuecomment-2365231118) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
 5. ❗ Opened issue [#45](https://github.com/andy-portmen/open-in-vlc/issues/45) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
