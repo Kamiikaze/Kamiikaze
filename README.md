@@ -50,7 +50,7 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/samfundev/BetterDiscordStuff/issues/21#issuecomment-2566361392) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
+1. ❗ Opened issue [#2897](https://github.com/mwittrien/BetterDiscordAddons/issues/2897) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
 2. 🗣 Commented on [#21](https://github.com/samfundev/BetterDiscordStuff/issues/21#issuecomment-2565762903) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
 3. ❗ Opened issue [#81](https://github.com/andy-portmen/open-in-vlc/issues/81) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
 4. 🗣 Commented on [#19](https://github.com/samfundev/BetterDiscordStuff/issues/19#issuecomment-2529572190) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
