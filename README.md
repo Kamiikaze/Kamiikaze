@@ -50,9 +50,9 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2897](https://github.com/mwittrien/BetterDiscordAddons/issues/2897#issuecomment-2645792409) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-2. ❗ Opened issue [#2897](https://github.com/mwittrien/BetterDiscordAddons/issues/2897) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-3. ❗ Opened issue [#81](https://github.com/andy-portmen/open-in-vlc/issues/81) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
+1. 💪 Opened PR [#497](https://github.com/danielptv/bookmark-bar-switcher/pull/497) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+2. 🗣 Commented on [#2897](https://github.com/mwittrien/BetterDiscordAddons/issues/2897#issuecomment-2645792409) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
+3. ❗ Opened issue [#2897](https://github.com/mwittrien/BetterDiscordAddons/issues/2897) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
 4. 🗣 Commented on [#19](https://github.com/samfundev/BetterDiscordStuff/issues/19#issuecomment-2529572190) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
 5. ❗ Opened issue [#45](https://github.com/andy-portmen/open-in-vlc/issues/45) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
 <!--END_SECTION:activity-->
