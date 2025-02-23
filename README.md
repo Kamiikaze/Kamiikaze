@@ -50,11 +50,11 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3211](https://github.com/ChrisTitusTech/winutil/pull/3211#issuecomment-2675141811) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-2. 💪 Opened PR [#3211](https://github.com/ChrisTitusTech/winutil/pull/3211) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-3. 🗣 Commented on [#2932](https://github.com/mwittrien/BetterDiscordAddons/issues/2932#issuecomment-2673338305) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-4. 🗣 Commented on [#169](https://github.com/programmer2514/BetterDiscord-CollapsibleUI/issues/169#issuecomment-2673332145) in [programmer2514/BetterDiscord-CollapsibleUI](https://github.com/programmer2514/BetterDiscord-CollapsibleUI)
-5. 💪 Opened PR [#497](https://github.com/danielptv/bookmark-bar-switcher/pull/497) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+1. ❗ Opened issue [#1870](https://github.com/BetterDiscord/BetterDiscord/issues/1870) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
+2. 🗣 Commented on [#169](https://github.com/programmer2514/BetterDiscord-CollapsibleUI/issues/169#issuecomment-2675975360) in [programmer2514/BetterDiscord-CollapsibleUI](https://github.com/programmer2514/BetterDiscord-CollapsibleUI)
+3. 🗣 Commented on [#169](https://github.com/programmer2514/BetterDiscord-CollapsibleUI/issues/169#issuecomment-2675965110) in [programmer2514/BetterDiscord-CollapsibleUI](https://github.com/programmer2514/BetterDiscord-CollapsibleUI)
+4. ❌ Closed PR [#3211](https://github.com/ChrisTitusTech/winutil/pull/3211) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+5. 🗣 Commented on [#3211](https://github.com/ChrisTitusTech/winutil/pull/3211#issuecomment-2675913426) in [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
