@@ -50,11 +50,11 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/patcher454/DeepLTranslatorPowerToys/issues/6) in [patcher454/DeepLTranslatorPowerToys](https://github.com/patcher454/DeepLTranslatorPowerToys)
-2. 🗣 Commented on [#13](https://github.com/ferraridavide/ChatGPTPowerToys/issues/13#issuecomment-2678364331) in [ferraridavide/ChatGPTPowerToys](https://github.com/ferraridavide/ChatGPTPowerToys)
-3. ❗ Opened issue [#696](https://github.com/inbasic/ignotifier/issues/696) in [inbasic/ignotifier](https://github.com/inbasic/ignotifier)
-4. ❗ Opened issue [#1870](https://github.com/BetterDiscord/BetterDiscord/issues/1870) in [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
-5. 🗣 Commented on [#169](https://github.com/programmer2514/BetterDiscord-CollapsibleUI/issues/169#issuecomment-2675975360) in [programmer2514/BetterDiscord-CollapsibleUI](https://github.com/programmer2514/BetterDiscord-CollapsibleUI)
+1. 🎉 Merged PR [#497](https://github.com/danielptv/bookmark-bar-switcher/pull/497) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+2. ❌ Closed PR [#490](https://github.com/danielptv/bookmark-bar-switcher/pull/490) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+3. ❌ Closed PR [#411](https://github.com/danielptv/bookmark-bar-switcher/pull/411) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+4. ❌ Closed PR [#494](https://github.com/danielptv/bookmark-bar-switcher/pull/494) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+5. ❌ Closed PR [#441](https://github.com/danielptv/bookmark-bar-switcher/pull/441) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
