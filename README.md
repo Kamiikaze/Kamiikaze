@@ -50,11 +50,11 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2947](https://github.com/mwittrien/BetterDiscordAddons/issues/2947#issuecomment-2689201304) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-2. 🗣 Commented on [#2947](https://github.com/mwittrien/BetterDiscordAddons/issues/2947#issuecomment-2689199158) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-3. 🗣 Commented on [#6](https://github.com/patcher454/DeepLTranslatorPowerToys/issues/6#issuecomment-2689154664) in [patcher454/DeepLTranslatorPowerToys](https://github.com/patcher454/DeepLTranslatorPowerToys)
-4. 🎉 Merged PR [#497](https://github.com/danielptv/bookmark-bar-switcher/pull/497) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
-5. ❌ Closed PR [#490](https://github.com/danielptv/bookmark-bar-switcher/pull/490) in [danielptv/bookmark-bar-switcher](https://github.com/danielptv/bookmark-bar-switcher)
+1. 🗣 Commented on [#2378](https://github.com/EDCD/EDMarketConnector/issues/2378#issuecomment-2692495422) in [EDCD/EDMarketConnector](https://github.com/EDCD/EDMarketConnector)
+2. 🗣 Commented on [#2378](https://github.com/EDCD/EDMarketConnector/issues/2378#issuecomment-2692493439) in [EDCD/EDMarketConnector](https://github.com/EDCD/EDMarketConnector)
+3. ❗ Opened issue [#2950](https://github.com/mwittrien/BetterDiscordAddons/issues/2950) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
+4. 🚀 Published release [v1.0.1](https://github.com/Kamiikaze/EDMC-Timer/releases/tag/v1.0.1) in [Kamiikaze/EDMC-Timer](https://github.com/Kamiikaze/EDMC-Timer)
+5. 🚀 Published release [v1.0.0](https://github.com/Kamiikaze/EDMC-Timer/releases/tag/v1.0.0) in [Kamiikaze/EDMC-Timer](https://github.com/Kamiikaze/EDMC-Timer)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
