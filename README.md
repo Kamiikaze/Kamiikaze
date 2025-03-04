@@ -50,11 +50,11 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2378](https://github.com/EDCD/EDMarketConnector/issues/2378#issuecomment-2692495422) in [EDCD/EDMarketConnector](https://github.com/EDCD/EDMarketConnector)
-2. 🗣 Commented on [#2378](https://github.com/EDCD/EDMarketConnector/issues/2378#issuecomment-2692493439) in [EDCD/EDMarketConnector](https://github.com/EDCD/EDMarketConnector)
-3. ❗ Opened issue [#2950](https://github.com/mwittrien/BetterDiscordAddons/issues/2950) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-4. 🚀 Published release [v1.0.1](https://github.com/Kamiikaze/EDMC-Timer/releases/tag/v1.0.1) in [Kamiikaze/EDMC-Timer](https://github.com/Kamiikaze/EDMC-Timer)
-5. 🚀 Published release [v1.0.0](https://github.com/Kamiikaze/EDMC-Timer/releases/tag/v1.0.0) in [Kamiikaze/EDMC-Timer](https://github.com/Kamiikaze/EDMC-Timer)
+1. ❗ Opened issue [#2384](https://github.com/EDCD/EDMarketConnector/issues/2384) in [EDCD/EDMarketConnector](https://github.com/EDCD/EDMarketConnector)
+2. 🚀 Published release [v1.0.2](https://github.com/Kamiikaze/EDMC-Timer/releases/tag/v1.0.2) in [Kamiikaze/EDMC-Timer](https://github.com/Kamiikaze/EDMC-Timer)
+3. 🗣 Commented on [#2378](https://github.com/EDCD/EDMarketConnector/issues/2378#issuecomment-2692495422) in [EDCD/EDMarketConnector](https://github.com/EDCD/EDMarketConnector)
+4. 🗣 Commented on [#2378](https://github.com/EDCD/EDMarketConnector/issues/2378#issuecomment-2692493439) in [EDCD/EDMarketConnector](https://github.com/EDCD/EDMarketConnector)
+5. ❗ Opened issue [#2950](https://github.com/mwittrien/BetterDiscordAddons/issues/2950) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
