@@ -90,11 +90,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JavaScript               26 mins             ███████████████████████░░   90.50 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+JavaScript               8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Tampermonkey             29 mins             █████████████████████████   100.00 % 
+Tampermonkey             8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +109,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2025 12:06:55 UTC
+ Last Updated on 09/03/2025 12:07:02 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
