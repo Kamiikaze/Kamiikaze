@@ -58,15 +58,13 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2050%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 129.1 kB Used in GitHub's Storage 
+> 📦 129.2 kB Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2025
+> 🏆 77 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -74,13 +72,13 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-🌆 Daytime                262 commits         █████████░░░░░░░░░░░░░░░░   37.38 % 
-🌃 Evening                232 commits         ████████░░░░░░░░░░░░░░░░░   33.10 % 
-🌙 Night                  118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+🌞 Morning                89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+🌆 Daytime                262 commits         █████████░░░░░░░░░░░░░░░░   37.22 % 
+🌃 Evening                235 commits         ████████░░░░░░░░░░░░░░░░░   33.38 % 
+🌙 Night                  118 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
 ```
 
 
@@ -109,7 +107,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2025 12:08:37 UTC
+ Last Updated on 27/03/2025 12:08:43 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
