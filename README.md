@@ -66,8 +66,6 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 
 > 📦 129.2 kB Used in GitHub's Storage 
  > 
-> 🏆 79 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -109,7 +107,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2025 12:07:58 UTC
+ Last Updated on 30/03/2025 12:08:16 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
