@@ -50,8 +50,8 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/patcher454/DeepLTranslatorPowerToys/issues/6#issuecomment-2700879390) in [patcher454/DeepLTranslatorPowerToys](https://github.com/patcher454/DeepLTranslatorPowerToys)
-2. ❗ Opened issue [#2384](https://github.com/EDCD/EDMarketConnector/issues/2384) in [EDCD/EDMarketConnector](https://github.com/EDCD/EDMarketConnector)
+1. ❗ Opened issue [#92](https://github.com/andy-portmen/open-in-vlc/issues/92) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
+2. ❗ Opened issue [#5312](https://github.com/vuejs/language-tools/issues/5312) in [vuejs/language-tools](https://github.com/vuejs/language-tools)
 3. 🚀 Published release [v1.0.2](https://github.com/Kamiikaze/EDMC-Timer/releases/tag/v1.0.2) in [Kamiikaze/EDMC-Timer](https://github.com/Kamiikaze/EDMC-Timer)
 4. 🗣 Commented on [#2378](https://github.com/EDCD/EDMarketConnector/issues/2378#issuecomment-2692495422) in [EDCD/EDMarketConnector](https://github.com/EDCD/EDMarketConnector)
 5. 🗣 Commented on [#2378](https://github.com/EDCD/EDMarketConnector/issues/2378#issuecomment-2692493439) in [EDCD/EDMarketConnector](https://github.com/EDCD/EDMarketConnector)
