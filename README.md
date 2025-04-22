@@ -90,15 +90,10 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Vue.js                   1 hr 17 mins        ██████████████████████░░░   86.27 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-discord-reloaded         1 hr 29 mins        █████████████████████████   100.00 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +109,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2025 12:08:48 UTC
+ Last Updated on 22/04/2025 12:09:19 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
