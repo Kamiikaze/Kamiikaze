@@ -3,20 +3,8 @@
 [![Waka Readme](https://github.com/Kamiikaze/Kamiikaze/actions/workflows/waka-simple.yml/badge.svg)](https://github.com/Kamiikaze/Kamiikaze/actions/workflows/waka-simple.yml)
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FKamiikaze%2FKamiikaze.json&label=Views)
 
-<!--p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p-->
-
 <p align="center">
   <img src="https://socialify.git.ci/Kamiikaze/Kamiikaze/image?font=Source%20Code%20Pro&forks=0&issues=0&language=1&name=1&owner=1&pattern=Plus&pulls=0&stargazers=0&theme=Dark" alt="Kamiikaze" width="700" height="300" />
-</p>
-
-<p align="center">
-<br/>
-<a href="https://open.spotify.com/user/timo1322">
-  <img alt="Kamiikaze's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<br>
 </p>
 
 <p align="center">
