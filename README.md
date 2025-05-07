@@ -38,11 +38,11 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#97](https://github.com/andy-portmen/open-in-vlc/issues/97) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
-2. 🗣 Commented on [#95](https://github.com/andy-portmen/open-in-vlc/issues/95#issuecomment-2817703312) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
-3. ❗ Opened issue [#95](https://github.com/andy-portmen/open-in-vlc/issues/95) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
-4. 🗣 Commented on [#46](https://github.com/samfundev/BetterDiscordStuff/issues/46#issuecomment-2799933728) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
-5. 💪 Opened PR [#93](https://github.com/andy-portmen/open-in-vlc/pull/93) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
+1. 🗣 Commented on [#46](https://github.com/samfundev/BetterDiscordStuff/issues/46#issuecomment-2855984657) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
+2. 🔒 Closed issue [#97](https://github.com/andy-portmen/open-in-vlc/issues/97) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
+3. ❗ Opened issue [#97](https://github.com/andy-portmen/open-in-vlc/issues/97) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
+4. 🗣 Commented on [#95](https://github.com/andy-portmen/open-in-vlc/issues/95#issuecomment-2817703312) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
+5. ❗ Opened issue [#95](https://github.com/andy-portmen/open-in-vlc/issues/95) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
