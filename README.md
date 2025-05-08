@@ -46,15 +46,13 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 134.7 kB Used in GitHub's Storage 
- > 
-> 🏆 124 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -78,16 +76,15 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               23 hrs 36 mins      ████████████░░░░░░░░░░░░░   46.16 % 
-Vue.js                   20 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   40.92 % 
-JSON                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-HTML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-JavaScript               1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               16 hrs 17 mins      ████████████░░░░░░░░░░░░░   47.20 % 
+Vue.js                   12 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   34.94 % 
+JSON                     1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+HTML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🐱‍💻 Projects: 
-advs-client              51 hrs 7 mins       █████████████████████████   99.95 % 
-discord-reloaded         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+advs-client              34 hrs 29 mins      █████████████████████████   99.98 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +100,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 12:11:38 UTC
+ Last Updated on 08/05/2025 12:11:15 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
