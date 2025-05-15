@@ -54,8 +54,6 @@ hobbies: ["Coding", "Anime", "Competitive Gaming", "IoT"]
 
 > 📦 134.7 kB Used in GitHub's Storage 
  > 
-> 🏆 124 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -97,7 +95,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2025 12:11:08 UTC
+ Last Updated on 15/05/2025 12:11:51 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
