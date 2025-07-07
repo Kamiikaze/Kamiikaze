@@ -47,9 +47,9 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3061](https://github.com/mwittrien/BetterDiscordAddons/issues/3061) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-2. 🗣 Commented on [#74](https://github.com/samfundev/BetterDiscordStuff/issues/74#issuecomment-2957851234) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
-3. 🗣 Commented on [#92](https://github.com/PlusInsta/discord-plus/issues/92#issuecomment-2924560138) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+1. 🗣 Commented on [#87](https://github.com/samfundev/BetterDiscordStuff/issues/87#issuecomment-3041395017) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
+2. ❗ Opened issue [#3061](https://github.com/mwittrien/BetterDiscordAddons/issues/3061) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
+3. 🗣 Commented on [#74](https://github.com/samfundev/BetterDiscordStuff/issues/74#issuecomment-2957851234) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
 4. ❗ Opened issue [#97](https://github.com/andy-portmen/open-in-vlc/issues/97) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
 5. ❗ Opened issue [#95](https://github.com/andy-portmen/open-in-vlc/issues/95) in [andy-portmen/open-in-vlc](https://github.com/andy-portmen/open-in-vlc)
 <!--END_SECTION:activity-->
