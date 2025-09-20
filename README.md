@@ -55,15 +55,13 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2022%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 137.2 kB Used in GitHub's Storage 
  > 
-> 🏆 430 Contributions in the Year 2025
+> 🏆 431 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -71,28 +69,6 @@ my_projects:
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-🌆 Daytime                950 commits         ████████████████░░░░░░░░░   63.89 % 
-🌃 Evening                278 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-🌙 Night                  148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -106,7 +82,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 12:12:02 UTC
+ Last Updated on 20/09/2025 12:11:16 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
