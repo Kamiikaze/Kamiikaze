@@ -88,7 +88,7 @@ Python                   2 repos             ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 25 November 2023 - To: 26 September 2025
+From: 25 November 2023 - To: 27 September 2025
 
 Total Time: 280 hrs 5 mins
 
