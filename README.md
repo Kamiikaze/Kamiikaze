@@ -55,13 +55,15 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%205%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 137.3 kB Used in GitHub's Storage 
  > 
-> 🏆 457 Contributions in the Year 2025
+> 🏆 458 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -69,6 +71,33 @@ my_projects:
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+🌆 Daytime                970 commits         ████████████████░░░░░░░░░   63.98 % 
+🌃 Evening                283 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+🌙 Night                  150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Vue.js                   3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
+TypeScript               3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
+HTML                     1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+JavaScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+
+🐱‍💻 Projects: 
+advs-client              8 hrs 29 mins       ██████████████████████░░░   87.36 % 
+selection-helper         1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -82,7 +111,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 12:11:46 UTC
+ Last Updated on 29/09/2025 12:12:23 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
