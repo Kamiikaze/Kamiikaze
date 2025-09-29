@@ -47,7 +47,7 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/samfundev/BetterDiscordStuff/issues/80#issuecomment-3046067391) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
+1. 🗣 Commented on [#103](https://github.com/PlusInsta/discord-plus/issues/103#issuecomment-3345733964) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
 2. 🗣 Commented on [#87](https://github.com/samfundev/BetterDiscordStuff/issues/87#issuecomment-3046044581) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
 3. 🗣 Commented on [#87](https://github.com/samfundev/BetterDiscordStuff/issues/87#issuecomment-3041395017) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
 4. ❗ Opened issue [#3061](https://github.com/mwittrien/BetterDiscordAddons/issues/3061) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
