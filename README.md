@@ -47,9 +47,9 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/PlusInsta/discord-plus/issues/103#issuecomment-3345733964) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-2. 🗣 Commented on [#87](https://github.com/samfundev/BetterDiscordStuff/issues/87#issuecomment-3046044581) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
-3. 🗣 Commented on [#87](https://github.com/samfundev/BetterDiscordStuff/issues/87#issuecomment-3041395017) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
+1. ❗ Opened issue [#75](https://github.com/Skamt/BDAddons/issues/75) in [Skamt/BDAddons](https://github.com/Skamt/BDAddons)
+2. 🗣 Commented on [#104](https://github.com/PlusInsta/discord-plus/issues/104#issuecomment-3346540372) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+3. 🗣 Commented on [#103](https://github.com/PlusInsta/discord-plus/issues/103#issuecomment-3345733964) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
 4. ❗ Opened issue [#3061](https://github.com/mwittrien/BetterDiscordAddons/issues/3061) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
 5. 🗣 Commented on [#74](https://github.com/samfundev/BetterDiscordStuff/issues/74#issuecomment-2957851234) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
 <!--END_SECTION:activity-->
