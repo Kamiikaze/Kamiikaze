@@ -55,52 +55,20 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2021%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 137.3 kB Used in GitHub's Storage 
  > 
-> 🏆 462 Contributions in the Year 2025
+> 🏆 464 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-🌆 Daytime                973 commits         ████████████████░░░░░░░░░   64.06 % 
-🌃 Evening                283 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-🌙 Night                  150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-CSS                      5 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.85 % 
-Vue.js                   3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-TypeScript               3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-HTML                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-
-🐱‍💻 Projects: 
-advs-client              8 hrs 36 mins       ██████████████░░░░░░░░░░░   57.47 % 
-discord-plus             3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-themes                   1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-selection-helper         1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-discord-reloaded         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -114,7 +82,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 12:12:18 UTC
+ Last Updated on 03/10/2025 12:12:01 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
