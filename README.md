@@ -47,9 +47,9 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#107](undefined) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-2. 🗣 Commented on [#105](https://github.com/PlusInsta/discord-plus/issues/105#issuecomment-3371862772) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-3. ❗ Opened issue [#75](https://github.com/Skamt/BDAddons/issues/75) in [Skamt/BDAddons](https://github.com/Skamt/BDAddons)
+1. 🚀 Published release [v0.0.3](https://github.com/Kamiikaze/betterdiscord-theme-template/releases/tag/v0.0.3) in [Kamiikaze/betterdiscord-theme-template](https://github.com/Kamiikaze/betterdiscord-theme-template)
+2. 💪 Opened PR [#107](undefined) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+3. 🗣 Commented on [#105](https://github.com/PlusInsta/discord-plus/issues/105#issuecomment-3371862772) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
 4. 🗣 Commented on [#104](https://github.com/PlusInsta/discord-plus/issues/104#issuecomment-3346540372) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
 5. 🗣 Commented on [#103](https://github.com/PlusInsta/discord-plus/issues/103#issuecomment-3345733964) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
 <!--END_SECTION:activity-->
