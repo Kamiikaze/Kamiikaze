@@ -47,11 +47,11 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8227](https://github.com/ShareX/ShareX/issues/8227) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
-2. 🚀 Published release [v0.0.3](https://github.com/Kamiikaze/betterdiscord-theme-template/releases/tag/v0.0.3) in [Kamiikaze/betterdiscord-theme-template](https://github.com/Kamiikaze/betterdiscord-theme-template)
-3. 💪 Opened PR [#107](undefined) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-4. 🗣 Commented on [#105](https://github.com/PlusInsta/discord-plus/issues/105#issuecomment-3371862772) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-5. 🗣 Commented on [#104](https://github.com/PlusInsta/discord-plus/issues/104#issuecomment-3346540372) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+1. 💪 Opened PR [#108](undefined) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+2. ❗ Opened issue [#8227](https://github.com/ShareX/ShareX/issues/8227) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
+3. 🚀 Published release [v0.0.3](https://github.com/Kamiikaze/betterdiscord-theme-template/releases/tag/v0.0.3) in [Kamiikaze/betterdiscord-theme-template](https://github.com/Kamiikaze/betterdiscord-theme-template)
+4. 💪 Opened PR [#107](undefined) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+5. 🗣 Commented on [#105](https://github.com/PlusInsta/discord-plus/issues/105#issuecomment-3371862772) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
