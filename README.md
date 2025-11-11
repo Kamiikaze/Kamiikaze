@@ -47,11 +47,11 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21340](https://github.com/vuetifyjs/vuetify/issues/21340#issuecomment-3499815142) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-2. 💪 Opened PR [#108](undefined) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-3. ❗ Opened issue [#8227](https://github.com/ShareX/ShareX/issues/8227) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
-4. 🚀 Published release [v0.0.3](https://github.com/Kamiikaze/betterdiscord-theme-template/releases/tag/v0.0.3) in [Kamiikaze/betterdiscord-theme-template](https://github.com/Kamiikaze/betterdiscord-theme-template)
-5. 💪 Opened PR [#107](undefined) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+1. 💪 Opened PR [#111](undefined) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+2. 🗣 Commented on [#110](https://github.com/PlusInsta/discord-plus/pull/110#issuecomment-3514407375) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+3. 🗣 Commented on [#21340](https://github.com/vuetifyjs/vuetify/issues/21340#issuecomment-3499815142) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+4. 💪 Opened PR [#108](undefined) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+5. ❗ Opened issue [#8227](https://github.com/ShareX/ShareX/issues/8227) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
