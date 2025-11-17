@@ -47,11 +47,11 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#10](https://github.com/Kamiikaze/AdvS-Client/issues/10) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-2.  Labeled issue [#10](https://github.com/Kamiikaze/AdvS-Client/issues/10) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-3. ❗ Opened issue [#10](https://github.com/Kamiikaze/AdvS-Client/issues/10) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-4.  Labeled issue [#9](https://github.com/Kamiikaze/AdvS-Client/issues/9) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-5.  Labeled issue [#9](https://github.com/Kamiikaze/AdvS-Client/issues/9) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+1. 🔒 Closed issue [#4](https://github.com/Kamiikaze/AdvS-Client/issues/4) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+2. 🔒 Closed issue [#7](https://github.com/Kamiikaze/AdvS-Client/issues/7) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+3. 🔒 Closed issue [#5](https://github.com/Kamiikaze/AdvS-Client/issues/5) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+4.  Labeled issue [#10](https://github.com/Kamiikaze/AdvS-Client/issues/10) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+5.  Labeled issue [#10](https://github.com/Kamiikaze/AdvS-Client/issues/10) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
