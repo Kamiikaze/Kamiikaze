@@ -47,11 +47,11 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](undefined) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
-2. ❌ Closed PR [#1](undefined) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
-3. ❌ Unlabeled PR [#1](undefined) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
-4. 🔒 Closed issue [#9](https://github.com/Kamiikaze/AdvS-Client/issues/9) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-5. 🗣 Commented on [#21340](https://github.com/vuetifyjs/vuetify/issues/21340#issuecomment-3567838794) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+1.  Labeled issue [#12](https://github.com/Kamiikaze/AdvS-Client/issues/12) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+2. ❗ Opened issue [#12](https://github.com/Kamiikaze/AdvS-Client/issues/12) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+3. ❗ Opened issue [#1](https://github.com/IBeSarah/DiscordClasses/issues/1) in [IBeSarah/DiscordClasses](https://github.com/IBeSarah/DiscordClasses)
+4. ❌ Closed PR [#2](undefined) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
+5. ❌ Closed PR [#1](undefined) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
