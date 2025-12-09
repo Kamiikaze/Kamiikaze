@@ -47,11 +47,11 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/Kamiikaze/AdvS-Client/issues/3) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-2. ❌ Merged PR [#13](undefined) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-3. ❌ Labeled PR [#13](undefined) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-4. ❌ Labeled PR [#13](undefined) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-5. ❌ Assigned PR [#13](undefined) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+1. ❌ Merged PR [#14](undefined) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+2. 🔒 Closed issue [#10](https://github.com/Kamiikaze/AdvS-Client/issues/10) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+3. ❌ Labeled PR [#14](undefined) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+4. ❌ Labeled PR [#14](undefined) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+5. 💪 Opened PR [#14](undefined) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
