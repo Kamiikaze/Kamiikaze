@@ -47,11 +47,11 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#18](https://github.com/Kamiikaze/AdvS-Client/issues/18) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-2. ❗ Opened issue [#18](https://github.com/Kamiikaze/AdvS-Client/issues/18) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-3. 🗣 Commented on [#1](https://github.com/IBeSarah/DiscordClasses/issues/1#issuecomment-3639990432) in [IBeSarah/DiscordClasses](https://github.com/IBeSarah/DiscordClasses)
-4. 🗣 Commented on [#5347](https://github.com/ghostery/adblocker/issues/5347#issuecomment-3639849351) in [ghostery/adblocker](https://github.com/ghostery/adblocker)
-5. 🔒 Closed issue [#16](https://github.com/Kamiikaze/AdvS-Client/issues/16) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+1. 🗣 Commented on [#108](https://github.com/samfundev/BetterDiscordStuff/issues/108#issuecomment-3653163344) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
+2.  Labeled issue [#18](https://github.com/Kamiikaze/AdvS-Client/issues/18) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+3. ❗ Opened issue [#18](https://github.com/Kamiikaze/AdvS-Client/issues/18) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+4. 🗣 Commented on [#1](https://github.com/IBeSarah/DiscordClasses/issues/1#issuecomment-3639990432) in [IBeSarah/DiscordClasses](https://github.com/IBeSarah/DiscordClasses)
+5. 🗣 Commented on [#5347](https://github.com/ghostery/adblocker/issues/5347#issuecomment-3639849351) in [ghostery/adblocker](https://github.com/ghostery/adblocker)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
