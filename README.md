@@ -48,7 +48,7 @@ my_projects:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#108](https://github.com/samfundev/BetterDiscordStuff/issues/108#issuecomment-3653163344) in [samfundev/BetterDiscordStuff](https://github.com/samfundev/BetterDiscordStuff)
-2.  Labeled issue [#18](https://github.com/Kamiikaze/AdvS-Client/issues/18) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+2. ℹ️ Labeled issue [#18](https://github.com/Kamiikaze/AdvS-Client/issues/18) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
 3. ❗ Opened issue [#18](https://github.com/Kamiikaze/AdvS-Client/issues/18) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
 4. 🗣 Commented on [#1](https://github.com/IBeSarah/DiscordClasses/issues/1#issuecomment-3639990432) in [IBeSarah/DiscordClasses](https://github.com/IBeSarah/DiscordClasses)
 5. 🗣 Commented on [#5347](https://github.com/ghostery/adblocker/issues/5347#issuecomment-3639849351) in [ghostery/adblocker](https://github.com/ghostery/adblocker)
