@@ -55,15 +55,15 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.94%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 158.8 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 5 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -75,8 +75,8 @@ my_projects:
 
 ```text
 🌞 Morning                134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-🌆 Daytime                1050 commits        ███████████████░░░░░░░░░░   59.36 % 
-🌃 Evening                353 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+🌆 Daytime                1051 commits        ███████████████░░░░░░░░░░   59.38 % 
+🌃 Evening                353 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 🌙 Night                  232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 ```
 
@@ -106,7 +106,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 12:14:37 UTC
+ Last Updated on 06/01/2026 12:14:02 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
