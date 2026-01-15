@@ -23,8 +23,8 @@ my_projects:
     totalDownloads: 1500
     avgRating: 4.5
   Tampermonkey-Scripts:
-    amount: 16
-    totalDownloads: 1343
+    amount: 18
+    totalDownloads: 1504
   Chrome-Extensions:
     amount: 2
   Discord-Bots:
