@@ -47,11 +47,11 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/PlusInsta/discord-plus/pull/119#issuecomment-3851797872) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-2. 💪 Opened PR [#119](https://github.com/PlusInsta/discord-plus/pull/119) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-3. 🗣 Commented on [#117](https://github.com/PlusInsta/discord-plus/issues/117#issuecomment-3851386137) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-4. 🔒 Closed issue [#117](https://github.com/PlusInsta/discord-plus/issues/117) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-5. 🎉 Merged PR [#118](https://github.com/PlusInsta/discord-plus/pull/118) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+1. 🎉 Merged PR [#119](https://github.com/PlusInsta/discord-plus/pull/119) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+2. 🗣 Commented on [#119](https://github.com/PlusInsta/discord-plus/pull/119#issuecomment-3851797872) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+3. 💪 Opened PR [#119](https://github.com/PlusInsta/discord-plus/pull/119) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+4. 🗣 Commented on [#117](https://github.com/PlusInsta/discord-plus/issues/117#issuecomment-3851386137) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+5. 🔒 Closed issue [#117](https://github.com/PlusInsta/discord-plus/issues/117) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
