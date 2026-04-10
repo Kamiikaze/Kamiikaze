@@ -47,8 +47,8 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#164](https://github.com/ccarney16/pterodactyl-containers/issues/164) in [ccarney16/pterodactyl-containers](https://github.com/ccarney16/pterodactyl-containers)
-2. ℹ️ Labeled issue [#67](https://github.com/BossSloth/Extendium/issues/67) in [BossSloth/Extendium](https://github.com/BossSloth/Extendium)
+1. ❗ Opened issue [#510](https://github.com/pterodactyl/game-eggs/issues/510) in [pterodactyl/game-eggs](https://github.com/pterodactyl/game-eggs)
+2. ❗ Opened issue [#164](https://github.com/ccarney16/pterodactyl-containers/issues/164) in [ccarney16/pterodactyl-containers](https://github.com/ccarney16/pterodactyl-containers)
 3. ❗ Opened issue [#67](https://github.com/BossSloth/Extendium/issues/67) in [BossSloth/Extendium](https://github.com/BossSloth/Extendium)
 4. 🎉 Merged PR [#119](https://github.com/PlusInsta/discord-plus/pull/119) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
 5. 🗣 Commented on [#119](https://github.com/PlusInsta/discord-plus/pull/119#issuecomment-3851797872) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
