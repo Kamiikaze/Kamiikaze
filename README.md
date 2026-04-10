@@ -55,7 +55,7 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182%20lines%20of%20code-blue?style=flat)
 
@@ -63,7 +63,7 @@ my_projects:
 
 > 📦 161.9 kB Used in GitHub's Storage 
  > 
-> 🏆 102 Contributions in the Year 2026
+> 🏆 104 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -74,10 +74,10 @@ my_projects:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-🌆 Daytime                89 commits          ███████████████████████░░   91.75 % 
+🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+🌆 Daytime                90 commits          ███████████████████████░░   91.84 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
 
@@ -87,26 +87,33 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 19 mins        ██████████████░░░░░░░░░░░   55.66 % 
+JavaScript               33 mins             ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
+JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+PowerShell               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+steam-news-image-viewer  1 hr 31 mins        ████████████████░░░░░░░░░   64.57 % 
+Unknown Project          30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+steam-non-steam-playtimes15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+temp-ext                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
-Vue                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+Vue                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 09/04/2026 12:29:43 UTC
+ Last Updated on 10/04/2026 12:23:58 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
