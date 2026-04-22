@@ -47,11 +47,11 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12](https://github.com/Kamiikaze/AdvS-Client/issues/12) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
-2. 🗣 Commented on [#164](https://github.com/ccarney16/pterodactyl-containers/issues/164#issuecomment-4268664072) in [ccarney16/pterodactyl-containers](https://github.com/ccarney16/pterodactyl-containers)
-3. ❗ Opened issue [#510](https://github.com/pterodactyl/game-eggs/issues/510) in [pterodactyl/game-eggs](https://github.com/pterodactyl/game-eggs)
-4. ❗ Opened issue [#164](https://github.com/ccarney16/pterodactyl-containers/issues/164) in [ccarney16/pterodactyl-containers](https://github.com/ccarney16/pterodactyl-containers)
-5. 🗣 Commented on [#119](https://github.com/PlusInsta/discord-plus/pull/119#issuecomment-3851797872) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+1. 🎉 Merged PR [#1](https://github.com/Kamiikaze/sto-scraper/pull/1) in [Kamiikaze/sto-scraper](https://github.com/Kamiikaze/sto-scraper)
+2. 💪 Opened PR [#1](https://github.com/Kamiikaze/sto-scraper/pull/1) in [Kamiikaze/sto-scraper](https://github.com/Kamiikaze/sto-scraper)
+3. 🔒 Closed issue [#18](https://github.com/Kamiikaze/AdvS-Client/issues/18) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+4. 🔒 Closed issue [#12](https://github.com/Kamiikaze/AdvS-Client/issues/12) in [Kamiikaze/AdvS-Client](https://github.com/Kamiikaze/AdvS-Client)
+5. 🗣 Commented on [#164](https://github.com/ccarney16/pterodactyl-containers/issues/164#issuecomment-4268664072) in [ccarney16/pterodactyl-containers](https://github.com/ccarney16/pterodactyl-containers)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
