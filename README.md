@@ -63,7 +63,7 @@ my_projects:
 
 > 📦 161.5 kB Used in GitHub's Storage 
  > 
-> 🏆 127 Contributions in the Year 2026
+> 🏆 128 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -74,10 +74,10 @@ my_projects:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-🌆 Daytime                110 commits         ███████████████████████░░   92.44 % 
+🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌆 Daytime                111 commits         ███████████████████████░░   92.50 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
@@ -87,32 +87,32 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Vue                      6 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.22 % 
-TypeScript               4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.43 % 
-HTTP Request             1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Vue                      5 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.78 % 
+TypeScript               4 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
+HTTP Request             1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🐱‍💻 Projects: 
-jellyfin-wishlist        12 hrs 25 mins      ██████████████████████░░░   88.44 % 
-Unknown Project          50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-advs-client              46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+jellyfin-wishlist        12 hrs 25 mins      ███████████████████████░░   93.42 % 
+Unknown Project          50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Vue                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+JavaScript               11 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
+Vue                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 30/04/2026 12:40:24 UTC
+ Last Updated on 01/05/2026 12:25:43 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
