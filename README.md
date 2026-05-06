@@ -55,7 +55,7 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.28%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -87,32 +87,34 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Vue                      8 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   37.20 % 
-TypeScript               7 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.09 % 
-YAML                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-HTTP Request             1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-Docker                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Vue                      3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+TypeScript               3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+YAML                     1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+HTML                     1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Docker                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 
 🐱‍💻 Projects: 
-jellyfin-wishlist        22 hrs 42 mins      ████████████████████████░   94.99 % 
-Unknown Project          50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-advs-client              21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+jellyfin-wishlist        10 hrs 16 mins      █████████████████████░░░░   83.79 % 
+sto-scraper              1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+advs-client              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Default (Template) Projec5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
-Vue                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Vue                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 05/05/2026 12:31:43 UTC
+ Last Updated on 06/05/2026 12:42:58 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
