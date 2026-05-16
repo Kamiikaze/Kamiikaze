@@ -55,13 +55,15 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2015%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.28%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 161.6 kB Used in GitHub's Storage 
  > 
-> 🏆 141 Contributions in the Year 2026
+> 🏆 142 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -69,6 +71,35 @@ my_projects:
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+🌆 Daytime                125 commits         ███████████████████████░░   93.28 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               3 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.25 % 
+Vue                      3 hrs               █████████░░░░░░░░░░░░░░░░   37.66 % 
+JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+JavaScript               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+HTTP Request             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+
+🐱‍💻 Projects: 
+jellyfin-wishlist        4 hrs 24 mins       ██████████████░░░░░░░░░░░   55.02 % 
+advs-client              3 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.04 % 
+MALSync                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+advs-extension           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -82,7 +113,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 12:42:24 UTC
+ Last Updated on 16/05/2026 12:26:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
