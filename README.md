@@ -118,7 +118,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 25 November 2023 - To: 31 May 2026
+From: 25 November 2023 - To: 01 June 2026
 
 Total Time: 537 hrs 55 mins
 
