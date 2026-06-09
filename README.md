@@ -47,11 +47,11 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [latest](https://github.com/Kamiikaze/bd-class-check/releases/tag/latest) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
-2. 🚀 Published release [0.0.2](https://github.com/Kamiikaze/bd-class-check/releases/tag/0.0.2) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
-3. ❌ Closed PR [#1](https://github.com/Kamiikaze/discord-plus/pull/1) in [Kamiikaze/discord-plus](https://github.com/Kamiikaze/discord-plus)
-4. 🚀 Published release [0.0.1-alpha1](https://github.com/Kamiikaze/bd-class-check/releases/tag/0.0.1-alpha1) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
-5. 🔒 Closed issue [#121](https://github.com/PlusInsta/discord-plus/issues/121) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+1. ❗ Opened issue [#101](https://github.com/Skamt/BDAddons/issues/101) in [Skamt/BDAddons](https://github.com/Skamt/BDAddons)
+2. 🚀 Published release [latest](https://github.com/Kamiikaze/bd-class-check/releases/tag/latest) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
+3. 🚀 Published release [0.0.2](https://github.com/Kamiikaze/bd-class-check/releases/tag/0.0.2) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
+4. ❌ Closed PR [#1](https://github.com/Kamiikaze/discord-plus/pull/1) in [Kamiikaze/discord-plus](https://github.com/Kamiikaze/discord-plus)
+5. 🚀 Published release [0.0.1-alpha1](https://github.com/Kamiikaze/bd-class-check/releases/tag/0.0.1-alpha1) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
