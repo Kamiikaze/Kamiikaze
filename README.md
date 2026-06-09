@@ -55,15 +55,13 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%209%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.28%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 161.6 kB Used in GitHub's Storage 
  > 
-> 🏆 166 Contributions in the Year 2026
+> 🏆 168 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -71,45 +69,20 @@ my_projects:
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-🌆 Daytime                147 commits         ███████████████████████░░   93.63 % 
-🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               12 mins             ██████████████████████░░░   88.33 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Vue                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-
-🐱‍💻 Projects: 
-advs-client              14 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-Vue                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Vue                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 08/06/2026 13:32:50 UTC
+ Last Updated on 09/06/2026 13:05:31 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
