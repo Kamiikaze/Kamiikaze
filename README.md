@@ -55,29 +55,29 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.30%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 199.0 kB Used in GitHub's Storage 
+> 📦 199.1 kB Used in GitHub's Storage 
  > 
-> 🏆 199 Contributions in the Year 2026
+> 🏆 201 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-🌆 Daytime                172 commits         ███████████████████████░░   91.49 % 
-🌃 Evening                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+🌆 Daytime                172 commits         ███████████████████████░░   91.01 % 
+🌃 Evening                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 
 
@@ -87,30 +87,32 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               20 mins             █████████████████░░░░░░░░   66.74 % 
-TSConfig                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Vue                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Vue                      3 hrs 1 min         ████████████░░░░░░░░░░░░░   47.19 % 
+TypeScript               1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+CSS                      54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🐱‍💻 Projects: 
-advs-client              30 mins             █████████████████████████   100.00 % 
+holy-drinks              5 hrs 49 mins       ███████████████████████░░   90.93 % 
+advs-client              34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
-Vue                      7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 07/07/2026 14:32:34 UTC
+ Last Updated on 08/07/2026 14:05:26 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
