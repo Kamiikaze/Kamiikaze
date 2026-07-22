@@ -47,8 +47,8 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#101](https://github.com/Skamt/BDAddons/issues/101) in [Skamt/BDAddons](https://github.com/Skamt/BDAddons)
-2. 🚀 Published release [latest](https://github.com/Kamiikaze/bd-class-check/releases/tag/latest) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
+1. 💪 Opened PR [#31](https://github.com/MRVDH/picnic-web/pull/31) in [MRVDH/picnic-web](https://github.com/MRVDH/picnic-web)
+2. 💪 Opened PR [#30](https://github.com/MRVDH/picnic-web/pull/30) in [MRVDH/picnic-web](https://github.com/MRVDH/picnic-web)
 3. 🚀 Published release [0.0.2](https://github.com/Kamiikaze/bd-class-check/releases/tag/0.0.2) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
 4. ❌ Closed PR [#1](https://github.com/Kamiikaze/discord-plus/pull/1) in [Kamiikaze/discord-plus](https://github.com/Kamiikaze/discord-plus)
 5. 🚀 Published release [0.0.1-alpha1](https://github.com/Kamiikaze/bd-class-check/releases/tag/0.0.1-alpha1) in [Kamiikaze/bd-class-check](https://github.com/Kamiikaze/bd-class-check)
