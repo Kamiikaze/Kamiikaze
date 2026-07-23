@@ -55,7 +55,7 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.30%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -63,21 +63,21 @@ my_projects:
 
 > 📦 199.2 kB Used in GitHub's Storage 
  > 
-> 🏆 218 Contributions in the Year 2026
+> 🏆 220 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 12 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-🌆 Daytime                181 commits         ██████████████████████░░░   89.16 % 
-🌃 Evening                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+🌆 Daytime                182 commits         ██████████████████████░░░   89.22 % 
+🌃 Evening                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
@@ -87,34 +87,34 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               4 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.69 % 
-JSON                     1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-JavaScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Vue                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+TypeScript               7 hrs 53 mins       ██████████████░░░░░░░░░░░   55.08 % 
+JSON                     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+JavaScript               1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Vue                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🐱‍💻 Projects: 
-picnic-web               3 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.35 % 
-holy-drinks              3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.40 % 
-backend                  1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-QDental                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-frontend                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+advs-extension           4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
+picnic-web               3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+holy-drinks              3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+backend                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+QDental                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 
 
 
 
- Last Updated on 22/07/2026 13:52:26 UTC
+ Last Updated on 23/07/2026 13:57:55 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
