@@ -55,13 +55,15 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%2051%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.30%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 199.2 kB Used in GitHub's Storage 
  > 
-> 🏆 221 Contributions in the Year 2026
+> 🏆 222 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -72,10 +74,10 @@ my_projects:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-🌆 Daytime                182 commits         ██████████████████████░░░   88.78 % 
-🌃 Evening                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+🌆 Daytime                183 commits         ██████████████████████░░░   88.83 % 
+🌃 Evening                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 
@@ -85,17 +87,17 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               7 hrs 53 mins       ██████████████░░░░░░░░░░░   54.98 % 
-JSON                     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+TypeScript               7 hrs 54 mins       ██████████████░░░░░░░░░░░   54.99 % 
+JSON                     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 JavaScript               1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
 Vue                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🐱‍💻 Projects: 
-advs-extension           4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.41 % 
+advs-extension           4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
 picnic-web               3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
 holy-drinks              3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-backend                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+backend                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 QDental                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 
@@ -112,7 +114,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 13:44:12 UTC
+ Last Updated on 25/07/2026 13:25:04 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
