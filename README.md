@@ -65,7 +65,7 @@ my_projects:
 
 > 📦 199.2 kB Used in GitHub's Storage 
  > 
-> 🏆 225 Contributions in the Year 2026
+> 🏆 226 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -76,10 +76,10 @@ my_projects:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-🌆 Daytime                185 commits         ██████████████████████░░░   88.52 % 
-🌃 Evening                14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+🌆 Daytime                185 commits         ██████████████████████░░░   88.10 % 
+🌃 Evening                15 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 
@@ -89,18 +89,16 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               7 hrs 54 mins       ██████████████░░░░░░░░░░░   54.99 % 
-JSON                     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-JavaScript               1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Vue                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+TypeScript               3 hrs 52 mins       ███████████████████░░░░░░   75.61 % 
+JavaScript               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-advs-extension           4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.42 % 
-picnic-web               3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-holy-drinks              3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-backend                  1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-QDental                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+advs-extension           4 hrs 39 mins       ███████████████████████░░   90.95 % 
+Tampermonkey             27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+advs-client              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -122,7 +120,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 14:05:43 UTC
+ Last Updated on 29/07/2026 14:08:50 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
