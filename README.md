@@ -47,11 +47,11 @@ my_projects:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#510](https://github.com/pterodactyl/game-eggs/issues/510) in [pterodactyl/game-eggs](https://github.com/pterodactyl/game-eggs)
-2. 🎉 Merged PR [#122](https://github.com/PlusInsta/discord-plus/pull/122) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-3. 💪 Opened PR [#122](https://github.com/PlusInsta/discord-plus/pull/122) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-4. 🔒 Closed issue [#92](https://github.com/PlusInsta/discord-plus/issues/92) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
-5. 🗣 Commented on [#34](https://github.com/OpenByteDev/burnt-sushi/issues/34#issuecomment-5205334377) in [OpenByteDev/burnt-sushi](https://github.com/OpenByteDev/burnt-sushi)
+1. ❗ Opened issue [#13](https://github.com/xanthics/bdo_ship_upgrade/issues/13) in [xanthics/bdo_ship_upgrade](https://github.com/xanthics/bdo_ship_upgrade)
+2. 🔒 Closed issue [#510](https://github.com/pterodactyl/game-eggs/issues/510) in [pterodactyl/game-eggs](https://github.com/pterodactyl/game-eggs)
+3. 🎉 Merged PR [#122](https://github.com/PlusInsta/discord-plus/pull/122) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+4. 💪 Opened PR [#122](https://github.com/PlusInsta/discord-plus/pull/122) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+5. 🔒 Closed issue [#92](https://github.com/PlusInsta/discord-plus/issues/92) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
