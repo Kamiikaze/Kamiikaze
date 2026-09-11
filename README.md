@@ -89,10 +89,17 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.78 % 
+JavaScript               1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   32.76 % 
+JSON                     49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+TypeScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+.env file                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dice-roller              3 hrs 4 mins        ███████████████░░░░░░░░░░   58.83 % 
+dice-roller-2            1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   31.52 % 
+dnd-master               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -114,7 +121,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 15:54:44 UTC
+ Last Updated on 11/09/2026 15:57:18 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
