@@ -55,7 +55,7 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2044%20mins-blue?style=flat)
 
@@ -89,17 +89,14 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               22 hrs 49 mins      ████████████████░░░░░░░░░   65.20 % 
-JavaScript               3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-HTML                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-CSS                      2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-JSON                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+TypeScript               28 hrs 46 mins      ████████████████████░░░░░   78.07 % 
+CSS                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+JavaScript               2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🐱‍💻 Projects: 
-dnd-master               30 hrs 10 mins      ██████████████████████░░░   86.19 % 
-dice-roller              3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-dice-roller-2            1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+dnd-master               36 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -121,7 +118,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 16:20:55 UTC
+ Last Updated on 18/09/2026 15:55:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
