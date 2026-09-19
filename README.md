@@ -55,17 +55,17 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2044%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.71%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.03%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 199.3 kB Used in GitHub's Storage 
+> 📦 199.4 kB Used in GitHub's Storage 
  > 
-> 🏆 277 Contributions in the Year 2026
+> 🏆 282 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -76,10 +76,10 @@ my_projects:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-🌆 Daytime                208 commits         ████████████████████░░░░░   80.93 % 
-🌃 Evening                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+🌆 Daytime                210 commits         ████████████████████░░░░░   80.15 % 
+🌃 Evening                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 
 
@@ -89,14 +89,15 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               28 hrs 46 mins      ████████████████████░░░░░   78.07 % 
-CSS                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-JavaScript               2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-HTML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TypeScript               27 hrs 57 mins      ███████████████████░░░░░░   74.69 % 
+CSS                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+JavaScript               2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Vue                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🐱‍💻 Projects: 
-dnd-master               36 hrs 51 mins      █████████████████████████   100.00 % 
+dnd-master               34 hrs 25 mins      ███████████████████████░░   91.93 % 
+jellyfin-wishlist        3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -118,7 +119,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 15:55:33 UTC
+ Last Updated on 19/09/2026 15:27:09 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
