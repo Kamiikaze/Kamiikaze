@@ -55,7 +55,7 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2044%20mins-blue?style=flat)
 
@@ -89,15 +89,15 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               27 hrs 57 mins      ███████████████████░░░░░░   74.69 % 
-CSS                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-JavaScript               2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Vue                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+TypeScript               20 hrs 20 mins      ████████████████████░░░░░   81.84 % 
+Vue                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+CSS                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Image (svg)              23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🐱‍💻 Projects: 
-dnd-master               34 hrs 25 mins      ███████████████████████░░   91.93 % 
-jellyfin-wishlist        3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+dnd-master               21 hrs 50 mins      ██████████████████████░░░   87.85 % 
+jellyfin-wishlist        3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,7 +119,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 15:27:09 UTC
+ Last Updated on 20/09/2026 15:32:25 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
