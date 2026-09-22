@@ -52,7 +52,7 @@ my_projects:
 
 **🐱 My GitHub Data** 
 
-> 📦 199.4 kB Used in GitHub's Storage 
+> 📦 199.3 kB Used in GitHub's Storage 
  > 
 > 🏆 282 Contributions in the Year 2026
  > 
@@ -65,10 +65,10 @@ my_projects:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-🌆 Daytime                210 commits         ████████████████████░░░░░   80.15 % 
-🌃 Evening                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+🌆 Daytime                211 commits         ████████████████████░░░░░   80.23 % 
+🌃 Evening                39 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 
 
@@ -78,15 +78,16 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               21 hrs 20 mins      █████████████████████░░░░   82.63 % 
-Vue                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-CSS                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Bash                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+TypeScript               18 hrs 51 mins      ████████████████████░░░░░   79.02 % 
+Vue                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+CSS                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🐱‍💻 Projects: 
-dnd-master               22 hrs 48 mins      ██████████████████████░░░   88.28 % 
-jellyfin-wishlist        3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+dnd-master               20 hrs 48 mins      ██████████████████████░░░   87.16 % 
+jellyfin-wishlist        3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -108,7 +109,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 17:56:30 UTC
+ Last Updated on 22/09/2026 16:22:28 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
