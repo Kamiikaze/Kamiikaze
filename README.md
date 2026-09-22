@@ -33,18 +33,7 @@ my_projects:
     amount: over 9000
 ```
 
-<!-- Archievments -->
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Kamiikaze&theme=onedark&column=-1" />
-</p>
-<!-- Spotify Recently Played -->
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=timo1322&count=5">
-</p>
-
 **:zap: Recent Activity:**
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamiikaze&theme=github-dark-dimmed&custom_title=Kamiikaze%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#14](https://github.com/xanthics/bdo_ship_upgrade/issues/14) in [xanthics/bdo_ship_upgrade](https://github.com/xanthics/bdo_ship_upgrade)
