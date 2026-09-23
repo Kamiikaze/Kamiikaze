@@ -36,9 +36,9 @@ my_projects:
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14](https://github.com/xanthics/bdo_ship_upgrade/issues/14) in [xanthics/bdo_ship_upgrade](https://github.com/xanthics/bdo_ship_upgrade)
-2. ❗ Opened issue [#13](https://github.com/xanthics/bdo_ship_upgrade/issues/13) in [xanthics/bdo_ship_upgrade](https://github.com/xanthics/bdo_ship_upgrade)
-3. 🔒 Closed issue [#510](https://github.com/pterodactyl/game-eggs/issues/510) in [pterodactyl/game-eggs](https://github.com/pterodactyl/game-eggs)
+1. 🗣 Commented on [#533](https://github.com/CyferShepard/Jellystat/issues/533#issuecomment-5779999009) in [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat)
+2. ❗ Opened issue [#14](https://github.com/xanthics/bdo_ship_upgrade/issues/14) in [xanthics/bdo_ship_upgrade](https://github.com/xanthics/bdo_ship_upgrade)
+3. ❗ Opened issue [#13](https://github.com/xanthics/bdo_ship_upgrade/issues/13) in [xanthics/bdo_ship_upgrade](https://github.com/xanthics/bdo_ship_upgrade)
 4. 🎉 Merged PR [#122](https://github.com/PlusInsta/discord-plus/pull/122) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
 5. 💪 Opened PR [#122](https://github.com/PlusInsta/discord-plus/pull/122) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
 <!--END_SECTION:activity-->
