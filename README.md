@@ -44,7 +44,7 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2044%20mins-blue?style=flat)
 
@@ -78,16 +78,18 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               18 hrs 51 mins      ████████████████████░░░░░   79.02 % 
-Vue                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-CSS                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+TypeScript               17 hrs 12 mins      ████████████████████░░░░░   80.24 % 
+Vue                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🐱‍💻 Projects: 
-dnd-master               20 hrs 48 mins      ██████████████████████░░░   87.16 % 
-jellyfin-wishlist        3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+dnd-master               18 hrs 16 mins      █████████████████████░░░░   85.20 % 
+jellyfin-wishlist        3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+gamedig-server-panel     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+game-server-monitoring   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,7 +111,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 16:22:28 UTC
+ Last Updated on 23/09/2026 16:12:40 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
