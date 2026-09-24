@@ -44,7 +44,7 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2044%20mins-blue?style=flat)
 
@@ -54,7 +54,7 @@ my_projects:
 
 > 📦 199.3 kB Used in GitHub's Storage 
  > 
-> 🏆 282 Contributions in the Year 2026
+> 🏆 283 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -78,18 +78,18 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               17 hrs 12 mins      ████████████████████░░░░░   80.24 % 
-Vue                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-CSS                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TypeScript               14 hrs 42 mins      ████████████████████░░░░░   78.50 % 
+Vue                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🐱‍💻 Projects: 
-dnd-master               18 hrs 16 mins      █████████████████████░░░░   85.20 % 
-jellyfin-wishlist        3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-gamedig-server-panel     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-game-server-monitoring   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+dnd-master               15 hrs 33 mins      █████████████████████░░░░   83.05 % 
+jellyfin-wishlist        3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+gamedig-server-panel     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+game-server-monitoring   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,17 +101,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 23/09/2026 16:12:40 UTC
+ Last Updated on 24/09/2026 16:35:35 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
