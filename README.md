@@ -36,11 +36,11 @@ my_projects:
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/intro-skipper/segment-editor-plugin/issues/19) in [intro-skipper/segment-editor-plugin](https://github.com/intro-skipper/segment-editor-plugin)
-2. 🗣 Commented on [#533](https://github.com/CyferShepard/Jellystat/issues/533#issuecomment-5779999009) in [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat)
-3. ❗ Opened issue [#14](https://github.com/xanthics/bdo_ship_upgrade/issues/14) in [xanthics/bdo_ship_upgrade](https://github.com/xanthics/bdo_ship_upgrade)
-4. ❗ Opened issue [#13](https://github.com/xanthics/bdo_ship_upgrade/issues/13) in [xanthics/bdo_ship_upgrade](https://github.com/xanthics/bdo_ship_upgrade)
-5. 💪 Opened PR [#122](https://github.com/PlusInsta/discord-plus/pull/122) in [PlusInsta/discord-plus](https://github.com/PlusInsta/discord-plus)
+1. ℹ️ Labeled issue [#871](https://github.com/n00bcodr/Jellyfin-Enhanced/issues/871) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+2. ❗ Opened issue [#871](https://github.com/n00bcodr/Jellyfin-Enhanced/issues/871) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+3. ❗ Opened issue [#19](https://github.com/intro-skipper/segment-editor-plugin/issues/19) in [intro-skipper/segment-editor-plugin](https://github.com/intro-skipper/segment-editor-plugin)
+4. 🗣 Commented on [#533](https://github.com/CyferShepard/Jellystat/issues/533#issuecomment-5779999009) in [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat)
+5. ❗ Opened issue [#14](https://github.com/xanthics/bdo_ship_upgrade/issues/14) in [xanthics/bdo_ship_upgrade](https://github.com/xanthics/bdo_ship_upgrade)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
