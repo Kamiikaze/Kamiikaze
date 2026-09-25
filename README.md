@@ -54,7 +54,7 @@ my_projects:
 
 > 📦 199.3 kB Used in GitHub's Storage 
  > 
-> 🏆 283 Contributions in the Year 2026
+> 🏆 284 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -78,18 +78,18 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               14 hrs 42 mins      ████████████████████░░░░░   78.50 % 
-Vue                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+TypeScript               8 hrs 23 mins       ██████████████████░░░░░░░   70.55 % 
+Vue                      1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🐱‍💻 Projects: 
-dnd-master               15 hrs 33 mins      █████████████████████░░░░   83.05 % 
-jellyfin-wishlist        3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-gamedig-server-panel     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-game-server-monitoring   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+dnd-master               8 hrs 30 mins       ██████████████████░░░░░░░   71.53 % 
+jellyfin-wishlist        3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+gamedig-server-panel     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+game-server-monitoring   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,17 +101,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Vue                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 24/09/2026 16:35:35 UTC
+ Last Updated on 25/09/2026 16:40:06 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
