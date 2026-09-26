@@ -44,7 +44,7 @@ my_projects:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2044%20mins-blue?style=flat)
 
@@ -78,18 +78,18 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               8 hrs 23 mins       ██████████████████░░░░░░░   70.55 % 
-Vue                      1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+TypeScript               7 hrs 5 mins        ████████████████████░░░░░   81.59 % 
+Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Vue                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🐱‍💻 Projects: 
-dnd-master               8 hrs 30 mins       ██████████████████░░░░░░░   71.53 % 
-jellyfin-wishlist        3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-gamedig-server-panel     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-game-server-monitoring   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+dnd-master               8 hrs 19 mins       ████████████████████████░   95.77 % 
+gamedig-server-panel     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+game-server-monitoring   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+jellyfin-wishlist        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,7 +111,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 16:40:06 UTC
+ Last Updated on 26/09/2026 15:53:39 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
