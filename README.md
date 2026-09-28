@@ -78,18 +78,17 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               7 hrs 5 mins        ████████████████████░░░░░   81.59 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-CSS                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Vue                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+TypeScript               4 hrs 51 mins       ████████████████████░░░░░   79.06 % 
+CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Vue                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🐱‍💻 Projects: 
-dnd-master               8 hrs 19 mins       ████████████████████████░   95.77 % 
-gamedig-server-panel     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-game-server-monitoring   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-jellyfin-wishlist        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+dnd-master               5 hrs 47 mins       ████████████████████████░   94.16 % 
+gamedig-server-panel     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+game-server-monitoring   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -111,7 +110,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 16:29:41 UTC
+ Last Updated on 28/09/2026 19:19:25 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
