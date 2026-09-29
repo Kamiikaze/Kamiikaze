@@ -78,17 +78,16 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               4 hrs 51 mins       ████████████████████░░░░░   79.06 % 
-CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Vue                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Vue                      9 mins              ██████████░░░░░░░░░░░░░░░   41.69 % 
+TypeScript               9 mins              ██████████░░░░░░░░░░░░░░░   38.19 % 
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+GitIgnore file           1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🐱‍💻 Projects: 
-dnd-master               5 hrs 47 mins       ████████████████████████░   94.16 % 
-gamedig-server-panel     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-game-server-monitoring   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-advs-client              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+gamedig-server-panel     16 mins             █████████████████░░░░░░░░   67.55 % 
+dnd-master               4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+game-server-monitoring   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -110,7 +109,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 19:19:25 UTC
+ Last Updated on 29/09/2026 17:44:50 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
