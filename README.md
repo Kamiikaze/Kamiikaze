@@ -78,13 +78,10 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Vue                      9 mins              ████████████████░░░░░░░░░   63.88 % 
-TypeScript               4 mins              ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gamedig-server-panel     12 mins             ████████████████████░░░░░   81.79 % 
-dnd-master               2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -106,7 +103,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 18:06:44 UTC
+ Last Updated on 02/10/2026 17:32:52 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
