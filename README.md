@@ -36,11 +36,11 @@ my_projects:
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#653](https://github.com/pterodactyl/game-eggs/issues/653#issuecomment-6218766732) in [pterodactyl/game-eggs](https://github.com/pterodactyl/game-eggs)
-2. 🗣 Commented on [#871](https://github.com/n00bcodr/Jellyfin-Enhanced/issues/871#issuecomment-5836174215) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-3. ℹ️ Labeled issue [#871](https://github.com/n00bcodr/Jellyfin-Enhanced/issues/871) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-4. ❗ Opened issue [#871](https://github.com/n00bcodr/Jellyfin-Enhanced/issues/871) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
-5. ❗ Opened issue [#19](https://github.com/intro-skipper/segment-editor-plugin/issues/19) in [intro-skipper/segment-editor-plugin](https://github.com/intro-skipper/segment-editor-plugin)
+1. ❗ Opened issue [#106](https://github.com/taengu/A2Tools-DPS-Meter/issues/106) in [taengu/A2Tools-DPS-Meter](https://github.com/taengu/A2Tools-DPS-Meter)
+2. 🗣 Commented on [#653](https://github.com/pterodactyl/game-eggs/issues/653#issuecomment-6218766732) in [pterodactyl/game-eggs](https://github.com/pterodactyl/game-eggs)
+3. 🗣 Commented on [#871](https://github.com/n00bcodr/Jellyfin-Enhanced/issues/871#issuecomment-5836174215) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+4. ℹ️ Labeled issue [#871](https://github.com/n00bcodr/Jellyfin-Enhanced/issues/871) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
+5. ❗ Opened issue [#871](https://github.com/n00bcodr/Jellyfin-Enhanced/issues/871) in [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
