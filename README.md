@@ -78,14 +78,10 @@ my_projects:
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-HTML                     14 mins             ████████████████░░░░░░░░░   63.49 % 
-TypeScript               4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-Batch                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sto-scraper              23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,7 +103,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 17:46:07 UTC
+ Last Updated on 31/10/2026 16:53:28 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
